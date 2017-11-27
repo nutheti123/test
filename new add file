@@ -1,4 +1,9 @@
 hi 
+<<<<<<< HEAD
 hthis is to test maven build in jenkins.
 git plugin added in github.
 jenkins configured in github.
+=======
+hthis is to test maven build in jenkins
+just added jenkins plugin in git
+>>>>>>> eaf781b5bbca29a3082d040a942343a484f3ff57
